@@ -3,9 +3,6 @@ package com.everis.bootcamp.utils
 import android.content.Context
 import android.preference.PreferenceManager
 
-
-
-
 class PreferencesUtils {
     companion object {
         const val KEY_WATER_COUNT = "water-count"

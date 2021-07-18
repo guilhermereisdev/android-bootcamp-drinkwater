@@ -1,4 +1,6 @@
-# Performing Background Work with Services
+# App Drink Water :milk_glass:
 
-Exercício prático sobre implementação de services, realize o clone do projeto e faça checkout para a branch exercise-service, a branch exercise-service-completed possui o exercício resolvido para consulta.
+Aplicativo que marca quantas vezes o usuário bebeu água.
 
+Feito para aplicar o uso de Intent Services e processos assíncronos e
+em background.
